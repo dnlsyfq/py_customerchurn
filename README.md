@@ -27,15 +27,16 @@ Find ranking mechanicsm to determine best criteria for chosen segment
 
 * Normalize the *Amount Spent* and *No. of Purchase*
 
-$$xmiu = \frac{x - min(x)}{max(x) - min(x)}$$ 
+$xmiu = \frac{x - min(x)}{max(x) - min(x)}$
 
 2. **Scoring Model : Weighted Sum**
 * To rank customers takes two criteria : *Amount Spent* and *No. of Purchase*
 
 * *Define the score of a customer :*
 
-$$(\frac{1}{2} * {No. of Purchase}) + (\frac{1}{2} * {Amount Spent})$$ 
-
+\begin{equation}
+(\frac{1}{2} * {No. of Purchase}) + (\frac{1}{2} * {Amount Spent})
+\end{equation}
 
 
 
