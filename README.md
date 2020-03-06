@@ -34,9 +34,7 @@ $$xmiu = \frac{x - min(x)}{max(x) - min(x)}$$
 
 * *Define the score of a customer :*
 
-$$
-(\frac{1}{2} * {No. of Purchase}) + (\frac{1}{2} * {Amount Spent})
-$$
+$$(\frac{1}{2} * {No. of Purchase}) + (\frac{1}{2} * {Amount Spent})$$
 
 
 
