@@ -39,3 +39,8 @@ $$(\frac{1}{2} * {No. of Purchase}) + (\frac{1}{2} * {Amount Spent})$$
 
 
 ---
+
+
+```
+Churn Rate = cancellations / total subscribers
+```
